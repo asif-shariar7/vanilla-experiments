@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ColorPicker</title>
+    <link rel="shortcut icon" href="icon.jpg" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="picker-card">
+        <h1>🎨 Color Picker</h1>
+        <div class="pick-label">
+            <span>Select a Color</span>   
+            <input type="color" id="colorInput" value="#3498db">
+        </div>
+        <div class="values">
+            <span id="hex">HEX: #3498db</span>
+            <button onclick="copyHex()">📋 Copy HEX</button>
+        </div>
+        <div class="values2">
+            <span id="rgb">RGB: rgb(52, 152, 219)</span>
+            <button onclick="copyRGB()">📋 Copy RGB</button>
+        </div>
+        <p id="msg"></p>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>
