@@ -10,9 +10,3 @@ This is a basic clone of the Amazon website, built using HTML and CSS. It is a s
 - Styled footer with useful links
 - Clean and organized HTML/CSS structure
 - Font Awesome icons integration
-
-## Tech Stack
-
-- **HTML**: Used for the structure and content of the webpage.
-- **CSS**: Used for styling the webpage and ensuring a clean and responsive design.
-
