@@ -1,8 +1,8 @@
-# 📸 Image Slider
+# Image Slider
 
 A simple and elegant image slider built using **HTML**, **CSS**, and **JavaScript**. This slider automatically transitions through images and includes **next/previous** navigation controls.
 
-## 🚀 Features
+## Features
 
 - Auto-sliding images every 2 seconds
 - Manual navigation with left/right arrow buttons
@@ -10,7 +10,7 @@ A simple and elegant image slider built using **HTML**, **CSS**, and **JavaScrip
 - Responsive centered layout
 - Font Awesome icons for navigation
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - HTML5
 - CSS3
